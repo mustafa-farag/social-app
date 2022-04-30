@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "674487156667",
+    "project_id": "chat-app-d3e12",
+    "storage_bucket": "chat-app-d3e12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674487156667:android:99f7ded139a9fc593c0e9e",
+        "android_client_info": {
+          "package_name": "com.example.faragchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674487156667-mku9al7em2soro0upptj7uoj0j4hup5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5IK-39evXrTxpPAkozOUhuPR86Xik8CU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674487156667-mku9al7em2soro0upptj7uoj0j4hup5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
